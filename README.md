@@ -5,7 +5,8 @@ I love baking, dancing, and crafting besides coding! 🎂💃🧶
 
 ---
 ## 🚀 Quick Facts About Me
-- 🎓 MCA student, CGPA 8+  
+- 🎓 MCA student
+-  BCA Graduate CGPA 8.9+  
 - 🌱 Learning core concepts of computer application 
 - 💻 Interested in AI , Data analysis
 ---
