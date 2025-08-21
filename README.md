@@ -6,16 +6,17 @@ Learning core concepts of computer application
 💻 Interested in AI , Data analysis
 
 ---
-## 🚀 Quick Facts About Me
+
+## 🛠️ Tech Stack
+- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts, javascript 
+- **Tools**: Git, VS Code, python libraries, tailwind 
+- **Databases**: MySQL 
+---
+## 🚀 Academics 
 - 👩‍💻 MCA student Siliguri institute of technology 
 - 🎓 BCA Graduate from Siliguri institute of technology CGPA 8.9+  
 - 🌱 completed Schooling from Siliguri girls' high school score 89%
 --- 
-## 🛠️ Tech Stack
-- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts
-- **Tools**: Git, VS Code, python libraries
-- **Databases**: MySQL 
----
 ## 🏆 Achivement 
 - 4 star C badge holder in hackerrank
 - Completed and winned a machine learning project workshop & competition organised by SIT MCA department
