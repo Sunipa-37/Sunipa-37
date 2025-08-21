@@ -1,21 +1,37 @@
 # Hello, I'm Sunipa 👋
 I'm an MCA student at Siliguri Institute of Technology.  
 Passionate about C, Python & web development
-I love baking, dancing, and crafting besides coding! 🎂💃🧶
+I love crafting, dancing, anchoring , recitation besides coding! 🎂💃🧶
+Learning core concepts of computer application 
+💻 Interested in AI , Data analysis
 
 ---
 ## 🚀 Quick Facts About Me
-- 🎓 MCA student
--  BCA Graduate CGPA 8.9+  
-- 🌱 Learning core concepts of computer application 
-- 💻 Interested in AI , Data analysis
----
+- 👩‍💻 MCA student Siliguri institute of technology 
+- 🎓 BCA Graduate from Siliguri institute of technology CGPA 8.9+  
+- 🌱 completed Schooling from Siliguri girls' high school score 89%
+--- 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C, Html , Css, Php , Unix Shell Scripts
+- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts
 - **Tools**: Git, VS Code, python libraries
 - **Databases**: MySQL 
-
 ---
+## 🏆 Achivement 
+- 4 star C badge holder in hackerrank
+- Completed and winned a machine learning project workshop & competition organised by SIT MCA department
+- winner of SIT Cultural fest 2025 art and craft competition.
+- Awarded for best major project of BCA final semester 
+- participated at SIT ideathon 2.o and successfully qualified for finals.
+- Higest class attendance Award holder during first and third semester of Bachelor's 
+  
+## 🔉 Extra - Curricular Activities 
+
+  
+- Hosted SIT Grand fest 2025 and 8+ key events like departmental events, Orientation, freshers, farewell , seminar , workshop, tech fest orize distribution
+- servered as a class representative during 3 years of bachelors
+- event co-ordinated SIT Golden Jubilee celebration, techvission 2024, Sitrang 2025
+
+
 ## 🌐 Let’s Connect
 - [Email](#)  : sunipabose37@gamil.com
 
