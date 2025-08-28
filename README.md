@@ -8,8 +8,8 @@ Learning core concepts of computer application
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts, javascript 
-- **Tools**: Git, VS Code, python libraries, tailwind 
+- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts, javascript ,php
+- **Tools**: Git, VS Code, jupyter notebook, tailwind 
 - **Databases**: MySQL 
 ---
 ## 🚀 Academics 
