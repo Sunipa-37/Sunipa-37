@@ -1,16 +1,16 @@
 # Hello, I'm Sunipa 👋
-I'm an MCA student at Siliguri Institute of Technology.  
-Passionate about C, Python & web development
-I love crafting, dancing, anchoring , recitation besides coding! 🎂💃🧶
-Learning core concepts of computer application 
+I'm an MCA final year student at Siliguri Institute of Technology.  
+Passionate about data science ,AI Python & web development
+I love crafting, dancing, anchoring , recitation besides coding!
+evolving in vast dynamics of digital world
 💻 Interested in AI , Data analysis
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts, javascript ,php
-- **Tools**: Git, VS Code, jupyter notebook, tailwind 
-- **Databases**: MySQL 
+- **Languages**: Python, C, Html , Css, react , Unix Shell Scripts, javascript ,php, docker , django 
+- **Tools**: Git, VS Code, jupyter notebook, tailwind , canva , Different AI tools
+- **Databases**: MySQL ,PostgreSQL,
 ---
 ## 🚀 Academics 
 - 👩‍💻 MCA student Siliguri institute of technology 
