@@ -9,7 +9,7 @@ I'm an MCA student at Siliguri Institute of Technology, passionate about Python,
 ## 🎓 Education
 
 - 🖥️ **MCA** — Siliguri Institute of Technology (Sep 2025 – Present)**CGPA: 8.92**
-- 🎓 **BCA** — Siliguri Institute of Technology (Sep 2022 – June 2025), 
+- 🎓 **BCA** — Siliguri Institute of Technology (Sep 2022 – June 2025), **CGPA: 8.44**
 - 🏫 **10+2 (Humanities)** — Siliguri Girls' High School, Batch 2022 (12th: 86%, 10th: 74%)
 
 ---
@@ -20,7 +20,7 @@ I'm an MCA student at Siliguri Institute of Technology, passionate about Python,
 - **Web:** HTML, CSS, React, Django, Tailwind CSS, MERN stack
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQL/PL-SQL
 - **Libraries:** NumPy, Pandas, Matplotlib
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Docker, Canva
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Docker, Canva, Jira
 
 ---
 
