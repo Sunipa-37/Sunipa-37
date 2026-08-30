@@ -8,8 +8,8 @@ I'm an MCA student at Siliguri Institute of Technology, passionate about Python,
 
 ## 🎓 Education
 
-- 🖥️ **MCA** — Siliguri Institute of Technology (Sep 2025 – Present)
-- 🎓 **BCA** — Siliguri Institute of Technology (Sep 2022 – June 2025), **CGPA: 8.92**
+- 🖥️ **MCA** — Siliguri Institute of Technology (Sep 2025 – Present)**CGPA: 8.92**
+- 🎓 **BCA** — Siliguri Institute of Technology (Sep 2022 – June 2025), 
 - 🏫 **10+2 (Humanities)** — Siliguri Girls' High School, Batch 2022 (12th: 86%, 10th: 74%)
 
 ---
@@ -64,8 +64,8 @@ I'm an MCA student at Siliguri Institute of Technology, passionate about Python,
 ## 🎤 Leadership & Extra-Curricular
 
 - Student Co-ordinator, CODEXQUEST Coding Competition — SIT Techvission 2024
-- Anchored 8+ key SIT events (Orientation, Freshers', Farewell, Seminars, Prize Distributions)
-- Bengali Anchoring at SITEX 2024 and AGOMONI 2025
+- Anchored 8+ key SIT events (Orientation, Freshers', Farewell, Anual Fest Seminars, Prize Distributions)
+- Bengali Anchoring at AGOMONI 2025
 - Organizing Committee Member — SIT 25th Year Closing Ceremony
 - Class Representative for all 3 years of BCA
 - Core Member, Creative Head & Co-ordinator — Solo Song and Treasure Hunt, AVAHAN 2K26
