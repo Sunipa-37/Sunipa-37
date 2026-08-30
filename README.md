@@ -27,7 +27,7 @@ I'm an MCA student at Siliguri Institute of Technology, passionate about Python,
 ## 🚀 Featured Projects
 
 - **[Docify – Doctor's Appointment Booking App](https://github.com/Sunipa-37)** — Full-stack MERN appointment booking system with patient registration, scheduling, and Razorpay payment integration.
-- **Centralized Campus Placement Platform** — College recruitment platform connecting Admins, Students, and Company HR — profile creation, resume uploads, job postings, and candidate filtering.
+- **[Centralized Campus Placement Platform].(https://github.com/Varij034/Campus-Connect-1.git)** — College recruitment platform connecting Admins, Students, and Company HR — profile creation, resume uploads, job postings, and candidate filtering.
 - **[RAKHSHANET](https://github.com/Sunipa-37/RAKHSHANET)** — A web-based project focused on women's safety.
 - **Cyber Attack Simulation Platform** — A web-based awareness platform built with a police cyber cell and educational institution to demonstrate real-world scam psychology (trust → curiosity → urgency → fear) to school and college students, in a fully simulated, safe environment.
 - **[houseprice_prediction_model](https://github.com/Sunipa-37/houseprice_prediction_model)** — Data analysis & ML mini-project predicting house prices.
