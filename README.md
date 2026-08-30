@@ -31,8 +31,8 @@ I'm an MCA student at Siliguri Institute of Technology, passionate about Python,
 - **[RAKHSHANET](https://github.com/Sunipa-37/RAKHSHANET)** — A web-based project focused on women's safety.
 - **[Cyber Attack Simulation Platform](https://github.com/Sunipa-37/AI--TRAINING-JOB-SIMULATION-.git)** — A web-based awareness platform built with a police cyber cell and educational institution to demonstrate real-world scam psychology (trust → curiosity → urgency → fear) to school and college students, in a fully simulated, safe environment.
 - **[houseprice_prediction_model](https://github.com/Sunipa-37/houseprice_prediction_model)** — Data analysis & ML mini-project predicting house prices.
-- **Personalized Text Editor** — Custom Tkinter-based text editor with file operations, formatting, and theming.
-- **Advanced Number Guessing Game** — Adaptive guessing game with scoring, hints, and limited attempts.
+- **[Personalized Text Editor](https://github.com/Sunipa-37/My-Text-Editor.githttps://github.com/Sunipa-37/My-Text-Editor.git)** — Custom Tkinter-based text editor with file operations, formatting, and theming.
+- **[Advanced Number Guessing Game](https://github.com/Sunipa-37/number-guessing-game-.githttps://github.com/Sunipa-37/number-guessing-game-.git)** — Adaptive guessing game with scoring, hints, and limited attempts.
 - **[Qr-generator-](https://github.com/Sunipa-37/Qr-generator-)** — Simple QR code generator.
 
 📁 23 public repositories in total — explore them all on my [Repositories tab](https://github.com/Sunipa-37?tab=repositories).
